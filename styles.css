@@ -1,0 +1,21 @@
+body {
+  max-width: 900px;
+
+  margin: 0 auto;
+
+
+  text-align: center;
+}
+
+.center-input {
+  margin: 0 auto !important;
+}
+
+h1 {
+  font-size: 72px;
+  font-weight: bolder;
+}
+
+.form-group {
+  margin-top: 50px;
+}
